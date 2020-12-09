@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Le savoir est une question de temps.
 Use the left arrow to go back!
